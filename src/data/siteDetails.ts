@@ -2,8 +2,8 @@ export const siteDetails = {
     siteName: 'kohlawise',
     siteUrl: 'https://finwise-omega.vercel.app/',
     metadata: {
-        title: 'Kohlawise financial brokers',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'Kohlawise financial consultants',
+        description: 'kohlawise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
     },
     language: 'en-us',
     locale: 'en-US',
