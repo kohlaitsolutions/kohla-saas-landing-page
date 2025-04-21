@@ -7,6 +7,10 @@ const PlayStoreButton = ({ dark }: { dark?: boolean }) => {
     return (
         <a href={https://play.google.com/store/games?hl=es_419&pli=1}>
             <button id="redirectButton">Click to Redirect</button>
+         <script>
+        document.getElementById('redirectButton').addEventListener('click', function() 
+                                                                   </script>
+                                                                   
                 type="button"
                 className={clsx("flex items-center justify-center min-w-[205px] mt-3 px-6 h-14 rounded-full w-full sm:w-fit", { "text-white bg-foreground": dark, "text-foreground bg-white": !dark })}
             >
