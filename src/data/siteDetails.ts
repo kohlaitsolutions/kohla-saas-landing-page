@@ -1,6 +1,6 @@
 export const siteDetails = {
     siteName: 'kohlawise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteUrl: 'https://kohlawise-omega.vercel.app/',
     metadata: {
         title: 'Kohlawise financial consultants',
         description: 'kohlawise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
