@@ -3,7 +3,7 @@ import { siteDetails } from "./siteDetails";
 
 export const testimonials: ITestimonial[] = [
     {
-        name: 'John Smith',
+        name: 'Suubi Phillip',
         role: 'CEO at Company',
         message: `${siteDetails.siteName}'s AI-driven insights have transformed how we approach financial planning for our clients. It's an invaluable resource in the modern financial landscape.`,
         avatar: '/images/testimonial-1.webp',
@@ -15,7 +15,7 @@ export const testimonials: ITestimonial[] = [
         avatar: '/images/testimonial-2.webp',
     },
     {
-        name: 'Emily Johnson',
+        name: 'Walulya Micah',
         role: 'Product Manager',
         message: `${siteDetails.siteName} is revolutionizing personal finance management. Its intuitive design and powerful features make it an indispensable tool for anyone serious about financial growth.`,
         avatar: '/images/testimonial-3.webp',
